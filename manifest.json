@@ -1,0 +1,10 @@
+{
+  "name": "个人管理中心",
+  "short_name": "我的APP",
+  "description": "工作 · 生活 · AI 学习 个人管理",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#120E22",
+  "theme_color": "#120E22",
+  "orientation": "portrait-primary"
+}
